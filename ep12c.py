@@ -11,6 +11,7 @@
 while 1:
     jab1 = raw_input("what you call me?? ")
     print "no, you're a " + jab1
+    #raw_input()
     #jab2 = raw_input("no you're a " + jab1)
     #print "I know you are, but what am I?"
     #print ""
